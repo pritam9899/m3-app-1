@@ -1,5 +1,9 @@
 components:
-- components: []
+- components:
+  - layout_properties: {grid_position: 'QSNYGX,QJRICA'}
+    name: label_1
+    properties: {text: 'Hello, This is a test'}
+    type: Label
   layout_properties: {slot: default}
   name: content_panel
   properties: {col_widths: '{}'}
